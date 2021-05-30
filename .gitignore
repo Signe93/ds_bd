@@ -1,0 +1,5 @@
+# Exclude checkpoint files from GitHub Repo
+.ipynb_checkpoints
+
+# Exclude pycache files from GitHub Repo
+*.pyc
