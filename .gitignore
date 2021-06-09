@@ -3,3 +3,5 @@
 
 # Exclude pycache files from GitHub Repo
 *.pyc
+
+.DS_Store
